@@ -1,0 +1,115 @@
+main{
+    width: 1280px;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+    
+}
+header{
+    background-color: black;
+    height: 73px;
+    text-align: center;
+    overflow: hidden;
+}
+header h1{
+    color: white;
+    font-size: 50px;
+    font-weight: 500;
+    margin: 11.5px;
+}
+
+#slider{
+    height: 727px;
+    background-image: url(../imgs/bg-header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contenedor{
+    background-color: black;
+    color: #FFFFFF;
+    height: 348px;
+    overflow: hidden;
+}
+article{
+    margin: 75px auto 24px auto;
+    text-align: center;
+    width: 75%;
+}
+article h2{
+    color: #FFFFFF;
+    font-size: 40px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.fondoMarron{
+    background-color: #1E1A13;
+}
+.caja1{
+    width: 475px;
+    height: 197px;
+    color: white;
+    margin: 76px 655px 75px 150px;
+    font-weight: lighter;
+    float: left;
+}
+.caja2{
+    width: 399px;
+    height: 237px;
+    margin: 45px 150px 56px 731px;
+    background-image: url(../imgs/iguana-1.jpg);
+    background-size: cover;
+}
+.caja3{
+    width: 316px;
+    height: 202px;
+    margin-top: 73px;
+    margin-left: 150px;
+    background-image: url(../imgs/iguana-2.jpg);
+    background-size: cover;
+    float: left;
+}
+.caja4{
+    width: 316px;
+    height: 202px;
+    margin-top: 73px;
+    margin-left: 16px;
+    background-image: url(../imgs/iguana-3.jpg);
+    background-size: cover;
+    float: left;
+    
+}
+.caja5{
+    width: 316px;
+    height: 202px;
+    margin-top: 73px;
+    margin-left: 16px;
+    background-image: url(../imgs/iguana-4.jpg);
+    background-size: cover;
+    float: left;
+     
+}
+.caracteristicas{
+    float: left;
+    width: 33%;
+}
+.caracteristicas p{
+    color: #FFFFFF;
+    font-size: 25px;
+    font-weight: 300;
+    margin-top: 16px;
+}
+
+footer{
+    color: #FFFFFF;
+    text-align: left;
+    font-weight: lighter;
+    height: 102px;
+    font-size: 20px;
+}
+footer p{
+    padding-top: 39px ;
+    padding-left: 299px;
+    padding-right: 299px;
+    padding-bottom: 39px;
+}
+
